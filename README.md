@@ -46,5 +46,4 @@ Simply open `solar-system.html` in any modern web browser that supports WebGL.
 - **Pause/Play**: Spacebar or UI button.
 - **Time Scale**: Use the slider to speed up or slow down time.
 
----
-*Created with ❤️ by Antigravity*
+
