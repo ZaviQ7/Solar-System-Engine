@@ -34,6 +34,10 @@ An interactive, high-fidelity 3D Solar System simulation built with **Three.js**
 ### Jupiter & Gas Giant Physics
 ![Jupiter Detail](screenshots/jupiter_hud.png)
 
+### True Scale Mode & Distant Zoom
+![True Scale Mode](screenshots/true_scale_mode.png)
+![True Scale Zoomed Out](screenshots/true_scale_zoomed_out.png)
+
 ## 🎮 How to Run
 
 Simply open `solar-system.html` in any modern web browser that supports WebGL.
